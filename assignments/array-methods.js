@@ -126,7 +126,7 @@ let ticketPriceTotal = 0;
 //             ticketPriceTotal += item.donation;
 //         }
 //     )
-// )
+// ) 
 
 let priceTotal = runners.forEach(
     priceTotalCallback = (
